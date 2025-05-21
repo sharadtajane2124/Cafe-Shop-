@@ -35,8 +35,6 @@
 > Home Page
 ![localhost_cafe_shop_home php](https://user-images.githubusercontent.com/89062109/191270692-93a08dcc-6574-4ba5-9a86-fa27d2c1868b.png)
 
-> About Page
-![localhost_cafe_shop_about php (1)](https://user-images.githubusercontent.com/89062109/191271555-9f771a3d-f3ff-4cec-afc5-0057ebad879b.png)
 
 > Menu Page
 ![localhost_cafe_shop_menu php](https://user-images.githubusercontent.com/89062109/191271845-b02a2471-1686-4a57-b23e-cfe29db9905b.png)
