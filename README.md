@@ -41,8 +41,6 @@
 > Menu Page
 ![localhost_cafe_shop_menu php](https://user-images.githubusercontent.com/89062109/191271845-b02a2471-1686-4a57-b23e-cfe29db9905b.png)
 
-> Contact Page
-![localhost_cafe_shop_contact php](https://user-images.githubusercontent.com/89062109/191271870-ff7c69a5-d5ce-46fb-b0ef-c1f79737d28b.png)
 
 > Registration Page
 ![localhost_cafe_shop_register php](https://user-images.githubusercontent.com/89062109/191271909-6466d50c-fdaa-4078-a887-5257c7769649.png)
